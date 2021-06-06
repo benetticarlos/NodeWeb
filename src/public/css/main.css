@@ -8,3 +8,7 @@ body {
 .navbar-nav {
     margin-left: auto;
 }
+
+#nodeLogo {
+    width: 60%;
+}
